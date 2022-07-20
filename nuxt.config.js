@@ -34,7 +34,7 @@ export default {
       {
         hid: 'og:url',
         property: 'og:url',
-        content: 'https://unidentified.vercel.app',
+        content: 'https://kaiiy.github.io/unidentified/',
       },
       {
         hid: 'og:title',
@@ -49,7 +49,7 @@ export default {
       {
         hid: 'og:image',
         property: 'og:image',
-        content: 'https://unidentified.vercel.app/share.png',
+        content: 'https://kaiiy.github.io/unidentified//share.png',
       },
       { name: 'twitter:card', content: 'summary_large_image' },
       { hid: 'robots', name: 'robots', content: 'noindex' },
