@@ -40,7 +40,8 @@
   "resolutions": {
     "git-url-parse": "^12.0.0",
     "glob-parent": "^5.1.2",
-    "nth-check": "^2.1.1"
+    "nth-check": "^2.1.1",
+	"terser": "^5.14.2"
   },
   "volta": {
     "node": "16.16.0"
