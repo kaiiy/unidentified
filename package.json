@@ -28,7 +28,7 @@
     "@nuxtjs/pwa": "^3.3.5",
     "@types/crypto-js": "^4.1.1",
     "@vue/runtime-dom": "^3.2.31",
-    "eslint": "^8.12.0",
+    "eslint": "^8.21.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-nuxt": "^3.2.0",
     "eslint-plugin-vue": "^8.5.0",
