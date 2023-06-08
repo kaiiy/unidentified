@@ -1,6 +1,6 @@
 # 正体不明
 
-謎解きゲームです。下のURLからプレイ可能です。
+謎解きゲームです。下のURLからプレイできます。
 
 https://kaiiy.github.io/unidentified/
 
